@@ -93,4 +93,18 @@ subtract_code = """
             	cv2.destroyAllWindows()
                 """
                 
+edge_desc = """
+                 Edge detection is one of the fundamental image-processing tasks used 
+                 in various Computer Vision tasks to identify the boundary or 
+                 sharp changes in the pixel intensity. It plays a crucial role in object detection, 
+                 image segmentation and feature extraction from the image. 
+                  """
+
+
+
+
+
+
+
+                
 

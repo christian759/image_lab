@@ -13,6 +13,5 @@ st.markdown("Upscaling your images from wac to awesome using ai models")
 st.subheader("Ai colouring")
 st.markdown("Colourize your images using ai models")
 
-st.footer("finally you have reached the end of this web page do well to give me a star on this github repo")
-st.write("links down below")
-st.link_button("Click here", "www.google.com")
+st.write("link to the code is down below, do well to give it a star")
+st.link_button("Go to gallery", "https://streamlit.io/gallery")
