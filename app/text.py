@@ -94,12 +94,25 @@ subtract_code = """
                 """
                 
 edge_desc = """
-                 Edge detection is one of the fundamental image-processing tasks used 
-                 in various Computer Vision tasks to identify the boundary or 
-                 sharp changes in the pixel intensity. It plays a crucial role in object detection, 
-                 image segmentation and feature extraction from the image. 
+            Edge detection is one of the fundamental image-processing tasks used 
+            in various Computer Vision tasks to identify the boundary or 
+            sharp changes in the pixel intensity. It plays a crucial role in object detection, 
+            image segmentation and feature extraction from the image.
                   """
 
+grey_desc = """
+            Grayscaling is the process of converting an image from other color spaces 
+            e.g. RGB, CMYK, HSV, etc. to shades of gray. It varies between complete 
+            black and complete white.
+            """
+            
+resize_desc = """
+                Resizing images is a fundamental task in image processing and computer vision, 
+                involving the alteration of an image's dimensions—its width and height. 
+                This process is essential for various applications, such as preparing 
+                images for machine learning models, optimizing website performance, adjusting 
+                image sizes for display on different devices, and more.
+              """
 
 
 
