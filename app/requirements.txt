@@ -1,0 +1,6 @@
+opencv
+pillow
+tensoflow
+io
+streamlit
+numpy
