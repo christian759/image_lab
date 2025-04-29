@@ -6,7 +6,7 @@ Created on Sun Jun 23 20:24:46 2024
 """
 
 des_main = """
-        The application will provide a user-friendly interface for editing images, 
+        The application provides a user-friendly interface for editing images, 
         allowing users to apply filters, resize images, adjust brightness/contrast, and more. 
         
         Here's a detailed overview of its features and implementation:
